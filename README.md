@@ -25,12 +25,23 @@
 
 ## 🌌 About me
 
-I am a **Full Stack Developer** specialized in designing, implementing, and optimizing high-throughput backend services, robust architectures, and responsive applications. Leveraging a strong foundation in systems programming (C++, Java) and high-level application development (Python, JavaScript), I focus on building scalable, reliable, and high-performance software.
-
-* **Backend & Systems Design**: Engineering efficient server-side architectures, REST/GraphQL APIs, and robust data schemas using Java (Spring Boot), Python, and C++.
-* **Software Architecture**: Designing clean, maintainable systems and microservice communications built to scale.
-* **Performance & Optimization**: Implementing caching mechanisms (Redis), optimizing database queries, and profiling system bottlenecks.
-* **Full-Cycle Engineering**: Delivering reliable, end-to-end software solutions, from memory-safe algorithms to responsive user interfaces.
+<table>
+  <tr>
+    <td valign="top" width="55%" style="border: none;">
+      I am a <b>Full Stack Developer</b> specialized in designing, implementing, and optimizing high-throughput backend services, robust architectures, and responsive applications. Leveraging a strong foundation in systems programming (C++, Java) and high-level application development (Python, JavaScript), I focus on building scalable, reliable, and high-performance software.
+      <br /><br />
+      <ul>
+        <li><b>Backend & Systems Design</b>: Engineering efficient server-side architectures, REST/GraphQL APIs, and robust data schemas using Java (Spring Boot), Python, and C++.</li>
+        <li><b>Software Architecture</b>: Designing clean, maintainable systems and microservice communications built to scale.</li>
+        <li><b>Performance & Optimization</b>: Implementing caching mechanisms (Redis), optimizing database queries, and profiling system bottlenecks.</li>
+        <li><b>Full-Cycle Engineering</b>: Delivering reliable, end-to-end software solutions, from memory-safe algorithms to responsive user interfaces.</li>
+      </ul>
+    </td>
+    <td valign="top" width="45%" align="center" style="border: none;">
+      <img src="coding-animation.svg" alt="Coding Animation" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
