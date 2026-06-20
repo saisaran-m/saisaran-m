@@ -5,7 +5,7 @@
   <br />
 
   <!-- Animated Typing Subtitle -->
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00F2FE&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Software+Engineer;Solving+complex+problems+with+elegant+code;Building+scalable+systems;Always+learning%2C+always+innovating" alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00F2FE&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Software+Engineer;Solving+complex+problems+with+elegant+code;Designing+scalable+backend+architectures;Always+learning%2C+always+innovating" alt="Typing Subtitle" />
 
   <br />
 
@@ -23,14 +23,14 @@
   <img src="divider.svg" alt="Divider" width="800" />
 </div>
 
-## 🌌 About me 
+## 🌌 Professional Profile
 
-I am a **Software Engineer** specialized in designing, implementing, and optimizing high-throughput backend services and responsive, user-centric frontends. Leveraging a strong foundation in C++, Java, and Python alongside modern web technologies, I focus on building scalable, reliable, and high-performance applications.
+I am a **Software Engineer** specialized in designing, implementing, and optimizing high-throughput backend services, robust architectures, and responsive applications. Leveraging a strong foundation in systems programming (C++, Java) and high-level application development (Python, JavaScript), I focus on building scalable, reliable, and high-performance software.
 
-* **Backend & Systems**: Engineering efficient server-side architectures, REST/GraphQL APIs, and database structures using Java (Spring Boot), Python, and C++.
-* **Frontend Engineering**: Developing interactive, responsive, and state-driven web interfaces using React, Next.js, and modern Javascript.
-* **Performance & Scale**: Implementing caching layers (Redis), optimizing database schemas, and writing clean, testable, and maintainable code.
-* **Systems Programming**: Utilizing systems languages like C++ and Java for robust, memory-safe, and computationally intensive applications.
+* **Backend & Systems Design**: Engineering efficient server-side architectures, REST/GraphQL APIs, and robust data schemas using Java (Spring Boot), Python, and C++.
+* **Software Architecture**: Designing clean, maintainable systems and microservice communications built to scale.
+* **Performance & Optimization**: Implementing caching mechanisms (Redis), optimizing database queries, and profiling system bottlenecks.
+* **Full-Cycle Engineering**: Delivering reliable, end-to-end software solutions, from memory-safe algorithms to responsive user interfaces.
 
 <br />
 
