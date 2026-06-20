@@ -23,14 +23,14 @@
   <img src="divider.svg" alt="Divider" width="800" />
 </div>
 
-## 💫 About Me
+## 🌌 Professional Profile
 
-Hello! I am **Saisaran M**, a passionate **Full Stack Engineer** dedicated to architecting high-performance systems and developing immersive user experiences. I specialize in bridging the gap between robust backend operations and sleek, user-centric frontends.
+I am a **Full Stack Engineer** specialized in designing, implementing, and optimizing high-throughput backend services and responsive, user-centric frontends. Leveraging a strong foundation in C++, Java, and Python alongside modern web technologies, I focus on building scalable, reliable, and high-performance applications.
 
-* 🚀 **Current Focus**: Building highly-scalable distributed systems and crafting premium web interfaces.
-* 🛠️ **Philosophy**: Writing clean, testable, and self-documenting code with a deep focus on performance.
-* 🌱 **Always Upgrading**: Deep-diving into system design patterns, microservices architecture, and cloud ecosystems.
-* 💬 **Let's Talk About**: C++, Java, Python, web frameworks, schema optimization, and system scale.
+* **Backend & Systems**: Engineering efficient server-side architectures, REST/GraphQL APIs, and database structures using Java (Spring Boot), Python, and C++.
+* **Frontend Engineering**: Developing interactive, responsive, and state-driven web interfaces using React, Next.js, and modern Javascript.
+* **Performance & Scale**: Implementing caching layers (Redis), optimizing database schemas, and writing clean, testable, and maintainable code.
+* **Systems Programming**: Utilizing systems languages like C++ and Java for robust, memory-safe, and computationally intensive applications.
 
 <br />
 
