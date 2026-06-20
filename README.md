@@ -1,0 +1,156 @@
+<div align="center">
+  <!-- Custom Neon Animated Banner -->
+  <img src="banner.svg" alt="Saisaran M Banner" width="800" />
+  
+  <br />
+
+  <!-- Animated Typing Subtitle -->
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00F2FE&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Full+Stack+Engineer;Solving+complex+problems+with+elegant+code;Building+scalable+systems;Always+learning%2C+always+innovating" alt="Typing Subtitle" />
+
+  <br />
+
+  <!-- Cohesive Badges -->
+  <a href="https://www.linkedin.com/in/saisaran-m-54b838381" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-saisaran--m--54b838381-00f2fe?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0a051b&amp;labelColor=bd00ff" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=saisaran-m&amp;color=00f2fe&amp;style=for-the-badge&amp;label=Views&amp;labelColor=bd00ff" alt="Views" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="divider.svg" alt="Divider" width="800" />
+</div>
+
+## 💫 About Me
+
+Hello! I am **Saisaran M**, a passionate **Full Stack Engineer** dedicated to architecting high-performance systems and developing immersive user experiences. I specialize in bridging the gap between robust backend operations and sleek, user-centric frontends.
+
+* 🚀 **Current Focus**: Building highly-scalable distributed systems and crafting premium web interfaces.
+* 🛠️ **Philosophy**: Writing clean, testable, and self-documenting code with a deep focus on performance.
+* 🌱 **Always Upgrading**: Deep-diving into system design patterns, microservices architecture, and cloud ecosystems.
+* 💬 **Let's Talk About**: C++, Java, Python, web frameworks, schema optimization, and system scale.
+
+<br />
+
+<div align="center">
+  <img src="divider.svg" alt="Divider" width="800" />
+</div>
+
+## 🛠️ Tech Stack & Ecosystem
+
+### 💻 Languages
+<p align="left">
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++" />
+  </a>&nbsp;
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+  </a>&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+  </a>
+</p>
+
+### ⚡ Frameworks & Libraries
+<p align="left">
+  <a href="https://react.dev" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  </a>&nbsp;
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+  </a>&nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+  </a>&nbsp;
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" />
+  </a>&nbsp;
+  <a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" />
+  </a>&nbsp;
+  <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" />
+  </a>
+</p>
+
+### 🗄️ Databases & Caching
+<p align="left">
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PostgreSQL-316194?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+  </a>&nbsp;
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
+  </a>&nbsp;
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
+  </a>&nbsp;
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis" />
+  </a>
+</p>
+
+### 🔧 Tools & Cloud
+<p align="left">
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  </a>&nbsp;
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+  </a>&nbsp;
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS" />
+  </a>&nbsp;
+  <a href="https://www.postman.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman" />
+  </a>
+</p>
+
+<br />
+
+<div align="center">
+  <img src="divider.svg" alt="Divider" width="800" />
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=saisaran-m&amp;show_icons=true&amp;title_color=00f2fe&amp;text_color=ffffff&amp;icon_color=bd00ff&amp;bg_color=0a051b&amp;hide_border=true&amp;count_private=true" alt="Saisaran M's GitHub Stats" />
+      </td>
+      <td align="center" width="50%" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisaran-m&amp;layout=compact&amp;title_color=00f2fe&amp;text_color=ffffff&amp;icon_color=bd00ff&amp;bg_color=0a051b&amp;hide_border=true&amp;langs_count=6" alt="Saisaran M's Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2" style="border: none;">
+        <br />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=saisaran-m&amp;currPlay=true&amp;background=0a051b&amp;ring=bd00ff&amp;fire=ff007f&amp;currRing=00f2fe&amp;currFire=ff007f&amp;sideRing=00f2fe&amp;sideFire=00f2fe&amp;text=ffffff&amp;dates=94a3b8&amp;stroke=bd00ff&amp;hide_border=true" alt="Saisaran M's Streak Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="divider.svg" alt="Divider" width="800" />
+</div>
+
+<div align="center">
+  <h3>⚡ Let's build something insane together!</h3>
+  <p>Feel free to reach out for collaborations, system architectures, or just to talk tech.</p>
+  <p>Designed with 💜 and powered by C++, Java, Python, and JavaScript.</p>
+</div>
