@@ -190,3 +190,4 @@ I am a **Full Stack Developer** specialized in designing, implementing, and opti
   <p>Feel free to reach out for collaborations, system architectures, or just to talk tech.</p>
   <p>Designed with 💜 and powered by C++, Java, Python, and JavaScript.</p>
 </div>
+<!-- badge yolo 1 -->
