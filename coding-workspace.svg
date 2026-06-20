@@ -1,126 +1,129 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
   <defs>
-    <!-- Screen content mask -->
+    <!-- Clip paths to keep animations inside screen boundaries -->
     <clipPath id="left-screen-clip">
-      <polygon points="95,140 155,112 155,173 95,202" />
+      <polygon points="94,114 156,91 156,159 94,182" />
     </clipPath>
     <clipPath id="right-screen-clip">
-      <polygon points="185,111 245,129 245,189 185,170" />
+      <polygon points="179,85 246,101 246,172 179,155" />
     </clipPath>
   </defs>
 
   <style>
-    @keyframes cursor {
+    @keyframes cursor-blink {
       0%, 100% { opacity: 0; }
       50% { opacity: 1; }
     }
-    @keyframes typing {
+    @keyframes typing-effect {
       0% { stroke-dashoffset: 80; }
       50% { stroke-dashoffset: 0; }
       100% { stroke-dashoffset: -80; }
     }
-    @keyframes wave {
+    @keyframes wave-move {
       0% { transform: translateX(0px); }
       100% { transform: translateX(-40px); }
     }
-    @keyframes pulse-dot {
+    @keyframes pulse-point {
       0%, 100% { transform: scale(1); opacity: 0.8; }
       50% { transform: scale(1.3); opacity: 1; }
     }
-    .cursor { animation: cursor 0.8s step-end infinite; }
-    .type-line { stroke-dasharray: 20 60; animation: typing 5s linear infinite; }
-    .chart-line { stroke-dasharray: 40; animation: wave 4s linear infinite; }
-    .pulse { animation: pulse-dot 2s ease-in-out infinite; transform-origin: center; }
+    .cursor { animation: cursor-blink 0.8s step-end infinite; }
+    .code-line { stroke-dasharray: 20 60; animation: typing-effect 6s linear infinite; }
+    .chart-wave { stroke-dasharray: 40; animation: wave-move 4s linear infinite; }
+    .glow-dot { animation: pulse-point 2s ease-in-out infinite; transform-origin: center; }
   </style>
 
-  <!-- ==================== BACKGROUND & ENVIRONMENT ==================== -->
-  <!-- Dark floor / lower background -->
-  <rect width="100%" height="100%" fill="#0d1117" />
+  <!-- ==================== BACKGROUND & WALL ==================== -->
+  <!-- Clean white background matching the image -->
+  <rect width="100%" height="100%" fill="#ffffff" />
   
-  <!-- Desk under-shadow (Teal shape from the image) -->
-  <polygon points="0,170 240,110 400,170 400,300 0,300" fill="#073042" />
+  <!-- Back wall line (light gray) -->
+  <line x1="0" y1="65" x2="400" y2="65" stroke="#d5dbe1" stroke-width="1.5" />
 
-  <!-- White Desk Surface (Slanted exactly like the image) -->
-  <polygon points="0,170 240,110 400,170 120,245" fill="#ffffff" />
+  <!-- ==================== FLOOR & SHADOWS ==================== -->
+  <!-- Dark teal floor block at the bottom -->
+  <path d="M 0,240 L 120,285 L 400,165 L 400,300 L 0,300 Z" fill="#00354b" />
   
-  <!-- Desk edge (gives 3D thickness) -->
-  <polygon points="120,245 400,170 400,174 120,249" fill="#e0e0e0" />
-  <polygon points="0,170 120,245 120,249 0,174" fill="#d5d5d5" />
+  <!-- Thin gray edge line for the desk -->
+  <path d="M 0,240 L 120,285 L 400,165" fill="none" stroke="#d5dbe1" stroke-width="2" />
 
   <!-- ==================== LEFT MONITOR (CODE) ==================== -->
   <!-- Monitor Base -->
-  <polygon points="120,150 135,143 145,148 130,155" fill="#14232c" />
+  <polygon points="110,135 125,129 135,133 120,139" fill="#10222a" />
   <!-- Stand -->
-  <polygon points="130,152 130,132 136,129 136,149" fill="#1c323f" />
+  <polygon points="120,137 120,117 126,114 126,134" fill="#1c323f" />
   <!-- Bezel -->
-  <polygon points="90,135 160,105 160,180 90,210" fill="#14232c" />
+  <polygon points="90,110 160,85 160,165 90,190" fill="#10222a" />
   <!-- Screen -->
-  <polygon points="95,140 155,112 155,173 95,202" fill="#0c4b64" />
+  <polygon points="94,114 156,91 156,159 94,182" fill="#061a24" />
   
-  <!-- Code Content on Left Screen (Clipped) -->
-  <g clip-path="url(#left-screen-clip)" stroke="#00f2fe" stroke-width="2" stroke-linecap="round" opacity="0.9">
-    <line x1="100" y1="148" x2="150" y2="125" class="type-line" />
-    <line x1="100" y1="156" x2="140" y2="138" class="type-line" style="animation-delay: 1s;" />
-    <line x1="105" y1="165" x2="150" y2="145" class="type-line" style="animation-delay: 2s;" />
-    <line x1="105" y1="173" x2="140" y2="157" class="type-line" style="animation-delay: 3s;" />
-    <line x1="110" y1="182" x2="145" y2="166" class="type-line" style="animation-delay: 4s;" />
+  <!-- Animated Code Lines (Clipped) -->
+  <g clip-path="url(#left-screen-clip)" stroke="#00bcd4" stroke-width="2" stroke-linecap="round" opacity="0.95">
+    <line x1="100" y1="122" x2="150" y2="99" class="code-line" />
+    <line x1="100" y1="130" x2="140" y2="112" class="code-line" style="animation-delay: 1.2s;" />
+    <line x1="105" y1="139" x2="150" y2="119" class="code-line" style="animation-delay: 2.4s;" />
+    <line x1="105" y1="147" x2="140" y2="131" class="code-line" style="animation-delay: 3.6s;" />
+    <line x1="110" y1="156" x2="145" y2="140" class="code-line" style="animation-delay: 4.8s;" />
   </g>
   <!-- Blinking Cursor -->
-  <polygon points="112,185 116,183 116,187 112,189" fill="#00f2fe" class="cursor" />
+  <polygon points="112,159 116,157 116,161 112,163" fill="#00bcd4" class="cursor" />
 
   <!-- ==================== RIGHT MONITOR (DASHBOARD) ==================== -->
   <!-- Monitor Base -->
-  <polygon points="200,118 215,111 225,116 210,123" fill="#14232c" />
+  <polygon points="195,103 210,97 220,101 205,107" fill="#10222a" />
   <!-- Stand -->
-  <polygon points="210,120 210,100 216,97 216,117" fill="#1c323f" />
+  <polygon points="205,105 205,85 211,82 211,102" fill="#1c323f" />
   <!-- Bezel -->
-  <polygon points="180,105 250,125 250,195 180,175" fill="#14232c" />
+  <polygon points="175,80 250,98 250,178 175,160" fill="#10222a" />
   <!-- Screen -->
-  <polygon points="185,111 245,129 245,189 185,170" fill="#0c4b64" />
+  <polygon points="179,85 246,101 246,172 179,155" fill="#0e2936" />
   
   <!-- Dashboard Content (Clipped) -->
   <g clip-path="url(#right-screen-clip)">
     <!-- Grid -->
-    <line x1="185" y1="140" x2="245" y2="158" stroke="#105f7e" stroke-width="0.5" />
-    <line x1="185" y1="155" x2="245" y2="173" stroke="#105f7e" stroke-width="0.5" />
-    <line x1="210" y1="110" x2="210" y2="185" stroke="#105f7e" stroke-width="0.5" />
+    <line x1="179" y1="120" x2="246" y2="138" stroke="#143c4e" stroke-width="0.75" />
+    <line x1="179" y1="135" x2="246" y2="153" stroke="#143c4e" stroke-width="0.75" />
+    <line x1="205" y1="80" x2="205" y2="175" stroke="#143c4e" stroke-width="0.75" />
     <!-- Graph Lines -->
-    <path d="M 180,150 Q 200,120 220,150 T 260,130" fill="none" stroke="#00f2fe" stroke-width="1.8" class="chart-line" />
-    <path d="M 180,160 Q 205,140 225,160 T 260,145" fill="none" stroke="#ffb380" stroke-width="1.5" opacity="0.7" />
-    <!-- Pulsing Node -->
-    <circle cx="220" cy="150" r="3" fill="#ffb380" class="pulse" />
+    <path d="M 175,130 Q 195,95 215,130 T 255,105" fill="none" stroke="#00bcd4" stroke-width="2" stroke-linecap="round" class="chart-wave" />
+    <path d="M 175,140 Q 200,115 220,140 T 255,120" fill="none" stroke="#ffb380" stroke-width="1.5" opacity="0.6" />
+    <!-- Node -->
+    <circle cx="215" cy="130" r="2.5" fill="#ffb380" class="glow-dot" />
   </g>
 
   <!-- ==================== DESK ACCESSORIES ==================== -->
-  <!-- Keyboard (Slanted on desk) -->
-  <polygon points="135,183 195,157 205,165 145,191" fill="#14232c" stroke="#1c323f" stroke-width="0.5" />
+  <!-- Keyboard -->
+  <polygon points="135,163 195,137 205,145 145,171" fill="#10222a" stroke="#1c323f" stroke-width="0.5" />
   <!-- Mouse -->
-  <ellipse cx="225" cy="180" rx="3" ry="5" fill="#14232c" transform="rotate(25, 225, 180)" />
+  <ellipse cx="225" cy="160" rx="3" ry="5" fill="#10222a" transform="rotate(25, 225, 160)" />
   <!-- Smartphone -->
-  <polygon points="120,210 135,203 141,211 126,218" fill="#14232c" />
+  <polygon points="120,190 135,183 141,191 126,198" fill="#10222a" />
+  <!-- Smartphone Screen -->
+  <polygon points="122,191 133,186 139,190 128,195" fill="#00bcd4" opacity="0.8" />
 
   <!-- ==================== PROGRAMMER (BACK-RIGHT VIEW) ==================== -->
-  <!-- Office Chair -->
-  <path d="M 235,245 C 235,210 275,200 280,235 L 290,265 L 245,275 Z" fill="#081c24" stroke="#14232c" stroke-width="1" />
+  <!-- Chair Backrest -->
+  <path d="M 235,225 C 235,190 275,180 280,215 L 290,245 L 245,255 Z" fill="#001c27" stroke="#10222a" stroke-width="1" />
   
   <!-- Torso & Shoulders -->
-  <path d="M 235,285 C 240,245 255,230 275,230 C 295,230 310,245 320,285 Z" fill="#0b2d3f" />
-  <path d="M 270,230 C 272,238 288,238 290,230 Z" fill="#071d29" /> <!-- Collar -->
+  <path d="M 235,265 C 240,225 255,210 275,210 C 295,210 310,225 320,265 Z" fill="#0b2d3f" />
+  <!-- Collar -->
+  <path d="M 270,210 C 272,218 288,218 290,210 Z" fill="#05141c" />
 
-  <!-- Left Arm (Typing) -->
-  <path d="M 240,260 Q 200,240 175,215" fill="none" stroke="#0b2d3f" stroke-width="12" stroke-linecap="round" />
-  <path d="M 175,215 L 166,207" stroke="#e0a98c" stroke-width="5" stroke-linecap="round" /> <!-- Hand -->
+  <!-- Left Arm -->
+  <path d="M 240,240 Q 200,220 175,195" fill="none" stroke="#0b2d3f" stroke-width="12" stroke-linecap="round" />
+  <path d="M 175,195 L 166,187" stroke="#d3b499" stroke-width="5" stroke-linecap="round" /> <!-- Hand -->
 
-  <!-- Right Arm (Mouse) -->
-  <path d="M 295,255 Q 285,225 238,198" fill="none" stroke="#0b2d3f" stroke-width="12" stroke-linecap="round" />
-  <path d="M 238,198 L 230,192" stroke="#e0a98c" stroke-width="5" stroke-linecap="round" /> <!-- Hand -->
+  <!-- Right Arm -->
+  <path d="M 295,235 Q 285,205 238,178" fill="none" stroke="#0b2d3f" stroke-width="12" stroke-linecap="round" />
+  <path d="M 238,178 L 230,172" stroke="#d3b499" stroke-width="5" stroke-linecap="round" /> <!-- Hand -->
 
   <!-- Head & Hair -->
-  <circle cx="280" cy="210" r="12.5" fill="#e0a98c" />
-  <path d="M 268,210 C 265,198 275,190 285,192 C 295,194 293,205 293,212 C 293,212 288,206 280,205 C 274,204 268,210 268,210 Z" fill="#14232c" />
+  <circle cx="280" cy="190" r="12.5" fill="#d3b499" />
+  <path d="M 268,190 C 265,178 275,170 285,172 C 295,174 293,185 293,192 C 293,192 288,186 280,185 C 274,184 268,190 268,190 Z" fill="#10222a" />
 
   <!-- Headphones -->
-  <path d="M 269,211 C 269,197 291,197 291,211" fill="none" stroke="#00a8cc" stroke-width="2.5" />
-  <ellipse cx="268" cy="211" rx="2" ry="5" fill="#14232c" />
-  <ellipse cx="291" cy="211" rx="2.5" ry="5.5" fill="#14232c" />
+  <path d="M 269,191 C 269,177 291,177 291,191" fill="none" stroke="#00bcd4" stroke-width="2.5" />
+  <ellipse cx="268" cy="191" rx="2" ry="5" fill="#10222a" />
+  <ellipse cx="291" cy="191" rx="2.5" ry="5.5" fill="#10222a" />
 </svg>
