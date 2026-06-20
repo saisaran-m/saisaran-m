@@ -5,7 +5,7 @@
   <br />
 
   <!-- Animated Typing Subtitle -->
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00F2FE&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Full+Stack+Engineer;Solving+complex+problems+with+elegant+code;Building+scalable+systems;Always+learning%2C+always+innovating" alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00F2FE&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Software+Engineer;Solving+complex+problems+with+elegant+code;Building+scalable+systems;Always+learning%2C+always+innovating" alt="Typing Subtitle" />
 
   <br />
 
