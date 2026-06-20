@@ -25,7 +25,7 @@
 
 ## 🌌 About me 
 
-I am a **Full Stack Engineer** specialized in designing, implementing, and optimizing high-throughput backend services and responsive, user-centric frontends. Leveraging a strong foundation in C++, Java, and Python alongside modern web technologies, I focus on building scalable, reliable, and high-performance applications.
+I am a **Software Engineer** specialized in designing, implementing, and optimizing high-throughput backend services and responsive, user-centric frontends. Leveraging a strong foundation in C++, Java, and Python alongside modern web technologies, I focus on building scalable, reliable, and high-performance applications.
 
 * **Backend & Systems**: Engineering efficient server-side architectures, REST/GraphQL APIs, and database structures using Java (Spring Boot), Python, and C++.
 * **Frontend Engineering**: Developing interactive, responsive, and state-driven web interfaces using React, Next.js, and modern Javascript.
