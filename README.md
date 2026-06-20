@@ -23,9 +23,9 @@
   <img src="divider.svg" alt="Divider" width="800" />
 </div>
 
-## 🌌 Professional Profile
+## 🌌 About me
 
-I am a **Software Engineer** specialized in designing, implementing, and optimizing high-throughput backend services, robust architectures, and responsive applications. Leveraging a strong foundation in systems programming (C++, Java) and high-level application development (Python, JavaScript), I focus on building scalable, reliable, and high-performance software.
+I am a **Full Stack Developer** specialized in designing, implementing, and optimizing high-throughput backend services, robust architectures, and responsive applications. Leveraging a strong foundation in systems programming (C++, Java) and high-level application development (Python, JavaScript), I focus on building scalable, reliable, and high-performance software.
 
 * **Backend & Systems Design**: Engineering efficient server-side architectures, REST/GraphQL APIs, and robust data schemas using Java (Spring Boot), Python, and C++.
 * **Software Architecture**: Designing clean, maintainable systems and microservice communications built to scale.
