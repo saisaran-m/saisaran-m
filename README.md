@@ -198,8 +198,6 @@
 
 <div align="center">
   <h3>⚡ Let's build something insane together!</h3>
-  <p>Feel free to reach out for collaborations, system architectures, or just to talk tech.</p>
-  <p>Designed with 💜 and powered by C++, Java, Python, and JavaScript.</p>
 </div>
 <!-- badge yolo 1 -->
 <!-- badge yolo 2 -->
