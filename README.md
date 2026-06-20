@@ -23,7 +23,7 @@
   <img src="divider.svg" alt="Divider" width="800" />
 </div>
 
-## 🌌 Professional Profile
+## 🌌 About me
 
 I am a **Software Engineer** specialized in designing, implementing, and optimizing high-throughput backend services, robust architectures, and responsive applications. Leveraging a strong foundation in systems programming (C++, Java) and high-level application development (Python, JavaScript), I focus on building scalable, reliable, and high-performance software.
 
