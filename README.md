@@ -38,6 +38,31 @@ I am a **Software Engineer** specialized in designing, implementing, and optimiz
   <img src="divider.svg" alt="Divider" width="800" />
 </div>
 
+## 📂 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%" style="border: none;">
+        <a href="https://github.com/saisaran-m/cineverse" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saisaran-m&amp;repo=cineverse&amp;title_color=00f2fe&amp;text_color=ffffff&amp;icon_color=bd00ff&amp;bg_color=0a051b&amp;hide_border=true" alt="Cineverse" />
+        </a>
+      </td>
+      <td align="center" width="50%" style="border: none;">
+        <a href="https://github.com/saisaran-m/flapper-arcade" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saisaran-m&amp;repo=flapper-arcade&amp;title_color=00f2fe&amp;text_color=ffffff&amp;icon_color=bd00ff&amp;bg_color=0a051b&amp;hide_border=true" alt="Flapper Arcade" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="divider.svg" alt="Divider" width="800" />
+</div>
+
 ## 🛠️ Tech Stack & Ecosystem
 
 ### 💻 Languages
