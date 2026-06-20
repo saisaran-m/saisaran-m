@@ -23,7 +23,7 @@
   <img src="divider.svg" alt="Divider" width="800" />
 </div>
 
-## 🌌 Professional Profile
+## 🌌 About me 
 
 I am a **Full Stack Engineer** specialized in designing, implementing, and optimizing high-throughput backend services and responsive, user-centric frontends. Leveraging a strong foundation in C++, Java, and Python alongside modern web technologies, I focus on building scalable, reliable, and high-performance applications.
 
