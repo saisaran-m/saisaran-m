@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-saisaran--m--54b838381-00f2fe?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0a051b&amp;labelColor=bd00ff" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=saisaran-m&amp;color=00f2fe&amp;style=for-the-badge&amp;label=Views&amp;labelColor=bd00ff" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=sais4ran&amp;color=00f2fe&amp;style=for-the-badge&amp;label=Views&amp;labelColor=bd00ff" alt="Views" />
 </div>
 
 <br />
@@ -128,16 +128,16 @@ I am a **Full Stack Engineer** specialized in designing, implementing, and optim
   <table>
     <tr>
       <td align="center" width="50%" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=saisaran-m&amp;show_icons=true&amp;title_color=00f2fe&amp;text_color=ffffff&amp;icon_color=bd00ff&amp;bg_color=0a051b&amp;hide_border=true&amp;count_private=true" alt="Saisaran M's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=sais4ran&amp;show_icons=true&amp;title_color=00f2fe&amp;text_color=ffffff&amp;icon_color=bd00ff&amp;bg_color=0a051b&amp;hide_border=true&amp;count_private=true" alt="Saisaran M's GitHub Stats" />
       </td>
       <td align="center" width="50%" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisaran-m&amp;layout=compact&amp;title_color=00f2fe&amp;text_color=ffffff&amp;icon_color=bd00ff&amp;bg_color=0a051b&amp;hide_border=true&amp;langs_count=6" alt="Saisaran M's Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sais4ran&amp;layout=compact&amp;title_color=00f2fe&amp;text_color=ffffff&amp;icon_color=bd00ff&amp;bg_color=0a051b&amp;hide_border=true&amp;langs_count=6" alt="Saisaran M's Top Languages" />
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2" style="border: none;">
         <br />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=saisaran-m&amp;currPlay=true&amp;background=0a051b&amp;ring=bd00ff&amp;fire=ff007f&amp;currRing=00f2fe&amp;currFire=ff007f&amp;sideRing=00f2fe&amp;sideFire=00f2fe&amp;text=ffffff&amp;dates=94a3b8&amp;stroke=bd00ff&amp;hide_border=true" alt="Saisaran M's Streak Stats" />
+        <img src="https://streak-stats.demolab.com/?user=sais4ran&amp;background=0a051b&amp;ring=bd00ff&amp;fire=ff007f&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;currStreakLabel=00f2fe&amp;sideLabels=00f2fe&amp;dates=94a3b8&amp;stroke=bd00ff&amp;hide_border=true" alt="Saisaran M's Streak Stats" />
       </td>
     </tr>
   </table>
