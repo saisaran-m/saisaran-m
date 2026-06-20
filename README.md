@@ -38,7 +38,7 @@
       </ul>
     </td>
     <td valign="top" width="45%" align="center" style="border: none;">
-      <img src="coding-workspace.svg" alt="Coding Animation" width="100%" />
+      <img src="developer-terminal.svg" alt="Coding Animation" width="100%" />
     </td>
   </tr>
 </table>
