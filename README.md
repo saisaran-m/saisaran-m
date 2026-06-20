@@ -150,6 +150,17 @@ I am a **Full Stack Engineer** specialized in designing, implementing, and optim
 </div>
 
 <div align="center">
+  <h3>👾 Contribution Game</h3>
+  <img src="https://raw.githubusercontent.com/saisaran-m/saisaran-m/output/github-contribution-grid-snake-dark.svg" alt="Saisaran M's Contribution Snake" width="800" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="divider.svg" alt="Divider" width="800" />
+</div>
+
+<div align="center">
   <h3>⚡ Let's build something insane together!</h3>
   <p>Feel free to reach out for collaborations, system architectures, or just to talk tech.</p>
   <p>Designed with 💜 and powered by C++, Java, Python, and JavaScript.</p>
