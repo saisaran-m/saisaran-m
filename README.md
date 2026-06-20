@@ -27,32 +27,17 @@
 
 <table>
   <tr>
-    <td valign="top" width="57%" style="border: none;">
-
-```python
-class SaisaranM:
-    def __init__(self):
-        self.name     = "Saisaran M"
-        self.role     = "Full Stack Developer"
-        self.location = "Chennai, India 🇮🇳"
-        self.degree   = "B.Tech - Computer Science"
-        self.focus    = "Scalable Architectures"
-        
-    @property
-    def core_skills(self):
-        return [
-            "Backend Systems (C++, Java, Python)",
-            "Web Development (React, Next.js, Node.js)",
-            "Databases & Caching (PostgreSQL, Redis)",
-            "DevOps & Clouds (Docker, AWS, Git)"
-        ]
-
-    def speak(self):
-        return "Building clean, high-performance, and robust software."
-```
-
+    <td valign="top" width="55%" style="border: none;">
+      I am a <b>Full Stack Developer</b> specialized in designing, implementing, and optimizing high-throughput backend services, robust architectures, and responsive applications. Leveraging a strong foundation in systems programming (C++, Java) and high-level application development (Python, JavaScript), I focus on building scalable, reliable, and high-performance software.
+      <br /><br />
+      <ul>
+        <li><b>Backend & Systems Design</b>: Engineering efficient server-side architectures, REST/GraphQL APIs, and robust data schemas using Java (Spring Boot), Python, and C++.</li>
+        <li><b>Software Architecture</b>: Designing clean, maintainable systems and microservice communications built to scale.</li>
+        <li><b>Performance & Optimization</b>: Implementing caching mechanisms (Redis), optimizing database queries, and profiling system bottlenecks.</li>
+        <li><b>Full-Cycle Engineering</b>: Delivering reliable, end-to-end software solutions, from memory-safe algorithms to responsive user interfaces.</li>
+      </ul>
     </td>
-    <td valign="top" width="43%" align="center" style="border: none;">
+    <td valign="top" width="45%" align="center" style="border: none;">
       <img src="coding-workspace.svg" alt="Coding Animation" width="100%" />
     </td>
   </tr>
