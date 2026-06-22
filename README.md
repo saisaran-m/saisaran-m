@@ -28,7 +28,7 @@
 <table>
   <tr>
     <td valign="top" width="55%" style="border: none;">
-      I am a <b>Full Stack Developer</b> specialized in designing, implementing, and optimizing high-throughput backend services, robust architectures, and responsive applications. Leveraging a strong foundation in systems programming (C++, Java) and high-level application development (Python, JavaScript), I focus on building scalable, reliable, and high-performance software.
+      I am a <b>Full Stack Engineer</b> specialized in designing, implementing, and optimizing high-throughput backend services, robust architectures, and responsive applications. Leveraging a strong foundation in systems programming (C++, Java) and high-level application development (Python, JavaScript), I focus on building scalable, reliable, and high-performance software.
       <br /><br />
       <ul>
         <li><b>Backend & Systems Design</b>: Engineering efficient server-side architectures, REST/GraphQL APIs, and robust data schemas using Java (Spring Boot), Python, and C++.</li>
@@ -186,6 +186,13 @@
 </div>
 
 <div align="center">
+  <h3>🎨 Contribution Artwork</h3>
+  <img src="gitartwork.svg" alt="Saisaran M's gitartwork" width="800" />
+</div>
+
+<br />
+
+<div align="center">
   <h3>👾 Contribution Game</h3>
   <img src="https://raw.githubusercontent.com/saisaran-m/saisaran-m/output/github-contribution-grid-snake-dark.svg" alt="Saisaran M's Contribution Snake" width="800" />
 </div>
@@ -197,8 +204,41 @@
 </div>
 
 <div align="center">
+  <h3>🏆 Unlocked Achievements</h3>
+  <p>Here are some of the official GitHub achievements earned on my profile. Check out my <a href="https://github.com/saisaran-m/github-badges">GitHub Badges Guide</a> repository to learn how to unlock them!</p>
+  
+  <table style="border: none;">
+    <tr>
+      <td align="center" width="25%" style="border: none;">
+        <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/quickdraw-default.png?raw=true" alt="Quickdraw" width="90px" />
+        <br />
+        <sub style="color: #00f2fe;"><b>Quickdraw</b></sub>
+      </td>
+      <td align="center" width="25%" style="border: none;">
+        <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/yolo-default.png?raw=true" alt="YOLO" width="90px" />
+        <br />
+        <sub style="color: #bd00ff;"><b>YOLO</b></sub>
+      </td>
+      <td align="center" width="25%" style="border: none;">
+        <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pair-extraordinaire-default.png?raw=true" alt="Pair Extraordinaire" width="90px" />
+        <br />
+        <sub style="color: #00f2fe;"><b>Pair Extraordinaire</b></sub>
+      </td>
+      <td align="center" width="25%" style="border: none;">
+        <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pull-shark-default.png?raw=true" alt="Pull Shark" width="90px" />
+        <br />
+        <sub style="color: #bd00ff;"><b>Pull Shark</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="divider.svg" alt="Divider" width="800" />
+</div>
+
+<div align="center">
   <h3>⚡ Let's build something insane together!</h3>
 </div>
-<!-- badge yolo 1 -->
-<!-- badge yolo 2 -->
-<!-- badge pair -->

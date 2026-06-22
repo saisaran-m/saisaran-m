@@ -1,0 +1,33 @@
+name: Generate Gitartwork
+
+on:
+  schedule:
+    # Run every 24 hours
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  gitartwork:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate gitartwork SVG
+        uses: jasineri/gitartwork@v1.0.4
+        with:
+          # GitHub username
+          user_name: saisaran-m
+          # Text to display on contribution graph (max 10 chars)
+          text: SAISARAN
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update gitartwork [skip ci]"
+          file_pattern: gitartwork.svg
