@@ -126,14 +126,14 @@
     <!-- Top badge -->
     <g transform="translate(0, -90)">
       <rect x="-110" y="-12" width="220" height="24" rx="12" fill="#140b2e" stroke="#bd00ff" stroke-width="1.5" style="animation: pulseGlow 4s infinite;"/>
-      <text y="4" class="badge-text">FULL STACK DEVELOPER</text>
+      <text y="4" class="badge-text">PASSIONATE DEVELOPER</text>
     </g>
 
     <!-- Main Name -->
     <text y="-10" class="main-title">SAISARAN M</text>
     
     <!-- Subtitle Role -->
-    <text y="42" class="subtitle">SOFTWARE ENGINEER</text>
+    <text y="42" class="subtitle">FULL STACK ENGINEER</text>
 
     <!-- Bio Slogan -->
     <text y="68" class="slogan">Designing robust systems • Engineering scalable solutions</text>
