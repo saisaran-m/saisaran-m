@@ -56,12 +56,12 @@
     <tr>
       <td align="center" width="50%" style="border: none;">
         <a href="https://github.com/saisaran-m/cineverse" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saisaran-m&amp;repo=cineverse&amp;title_color=00f2fe&amp;text_color=ffffff&amp;icon_color=bd00ff&amp;bg_color=0a051b&amp;hide_border=true" alt="Cineverse" />
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=saisaran-m&amp;repo=cineverse&amp;title_color=00f2fe&amp;text_color=ffffff&amp;icon_color=bd00ff&amp;bg_color=0a051b&amp;hide_border=true" alt="Cineverse" />
         </a>
       </td>
       <td align="center" width="50%" style="border: none;">
         <a href="https://github.com/saisaran-m/flapper-arcade" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saisaran-m&amp;repo=flapper-arcade&amp;title_color=00f2fe&amp;text_color=ffffff&amp;icon_color=bd00ff&amp;bg_color=0a051b&amp;hide_border=true" alt="Flapper Arcade" />
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=saisaran-m&amp;repo=flapper-arcade&amp;title_color=00f2fe&amp;text_color=ffffff&amp;icon_color=bd00ff&amp;bg_color=0a051b&amp;hide_border=true" alt="Flapper Arcade" />
         </a>
       </td>
     </tr>
@@ -164,10 +164,10 @@
   <table>
     <tr>
       <td align="center" width="50%" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=saisaran-m&amp;show_icons=true&amp;title_color=00f2fe&amp;text_color=ffffff&amp;icon_color=bd00ff&amp;bg_color=0a051b&amp;hide_border=true&amp;count_private=true" alt="Saisaran M's GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=saisaran-m&amp;show_icons=true&amp;title_color=00f2fe&amp;text_color=ffffff&amp;icon_color=bd00ff&amp;bg_color=0a051b&amp;hide_border=true&amp;count_private=true" alt="Saisaran M's GitHub Stats" />
       </td>
       <td align="center" width="50%" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisaran-m&amp;layout=compact&amp;title_color=00f2fe&amp;text_color=ffffff&amp;icon_color=bd00ff&amp;bg_color=0a051b&amp;hide_border=true&amp;langs_count=6" alt="Saisaran M's Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=saisaran-m&amp;layout=compact&amp;title_color=00f2fe&amp;text_color=ffffff&amp;icon_color=bd00ff&amp;bg_color=0a051b&amp;hide_border=true&amp;langs_count=6" alt="Saisaran M's Top Languages" />
       </td>
     </tr>
     <tr>
