@@ -173,7 +173,7 @@
     <tr>
       <td align="center" colspan="2" style="border: none;">
         <br />
-        <img src="https://streak-stats.demolab.com/?user=saisaran-m&amp;background=0a051b&amp;ring=bd00ff&amp;fire=ff007f&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;currStreakLabel=00f2fe&amp;sideLabels=00f2fe&amp;dates=94a3b8&amp;stroke=bd00ff&amp;hide_border=true" alt="Saisaran M's Streak Stats" />
+        <img src="https://streak-stats.demolab.com/?user=saisaran-m&amp;background=0a051b&amp;ring=bd00ff&amp;fire=ff007f&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;currStreakLabel=00f2fe&amp;sideLabels=00f2fe&amp;dates=94a3b8&amp;stroke=bd00ff&amp;hide_border=true&amp;v=2" alt="Saisaran M's Streak Stats" />
       </td>
     </tr>
   </table>
