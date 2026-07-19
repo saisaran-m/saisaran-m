@@ -11,7 +11,7 @@
 
   <!-- Cohesive Badges -->
   <a href="https://www.linkedin.com/in/saisaran-m-54b838381" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-saisaran--m--54b838381-00f2fe?style=for-the-badge&logo=linkedin&logoColor=0a051b&labelColor=bd00ff&v=3" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00f2fe?style=for-the-badge&logo=linkedin&logoColor=0a051b&labelColor=bd00ff" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=saisaran-m&amp;color=00f2fe&amp;style=for-the-badge&amp;label=Views&amp;labelColor=bd00ff" alt="Views" />
