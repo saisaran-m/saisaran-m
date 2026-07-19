@@ -11,7 +11,7 @@
 
   <!-- Cohesive Badges -->
   <a href="https://www.linkedin.com/in/saisaran-m-54b838381" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-00f2fe?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0a051b&amp;labelColor=bd00ff&amp;v=5" alt="LinkedIn" />
+    <img src="https://badgen.net/badge/LinkedIn/Connect/00f2fe?icon=linkedin&amp;labelColor=bd00ff" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=saisaran-m&amp;color=00f2fe&amp;style=for-the-badge&amp;label=Views&amp;labelColor=bd00ff" alt="Views" />
@@ -79,7 +79,7 @@
 ### 💻 Languages
 <p align="left">
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white&amp;v=5" alt="C++" />
+    <img src="https://badgen.net/badge/%20/C%2B%2B/00599C?icon=cplusplus" alt="C++" />
   </a>&nbsp;
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
@@ -123,7 +123,7 @@
 ### 🗄️ Databases & Caching
 <p align="left">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PostgreSQL-316194?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white&amp;v=5" alt="PostgreSQL" />
+    <img src="https://badgen.net/badge/%20/PostgreSQL/316194?icon=postgresql" alt="PostgreSQL" />
   </a>&nbsp;
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
@@ -148,7 +148,7 @@
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS" />
   </a>&nbsp;
   <a href="https://www.postman.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white&amp;v=5" alt="Postman" />
+    <img src="https://badgen.net/badge/%20/Postman/FF6C37?icon=postman" alt="Postman" />
   </a>
 </p>
 
